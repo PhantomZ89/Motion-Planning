@@ -1,0 +1,65 @@
+Initialize engine version: 5.5.1f1 (88d00a7498cd)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA TITAN Xp (ID=0x1b02)
+    Vendor:   NVIDIA
+    VRAM:     12145 MB
+    Driver:   27.21.14.6589
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\My folder\University\4B\ECE 495\11. Motion Planning\Assignment 8\term3_sim_windows\term3_sim_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\My folder\University\4B\ECE 495\11. Motion Planning\Assignment 8\term3_sim_windows\term3_sim_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\My folder\University\4B\ECE 495\11. Motion Planning\Assignment 8\term3_sim_windows\term3_sim_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading D:\My folder\University\4B\ECE 495\11. Motion Planning\Assignment 8\term3_sim_windows\term3_sim_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: D:\My folder\University\4B\ECE 495\11. Motion Planning\Assignment 8\term3_sim_windows\term3_sim_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\My folder\University\4B\ECE 495\11. Motion Planning\Assignment 8\term3_sim_windows\term3_sim_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\My folder\University\4B\ECE 495\11. Motion Planning\Assignment 8\term3_sim_windows\term3_sim_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\My folder\University\4B\ECE 495\11. Motion Planning\Assignment 8\term3_sim_windows\term3_sim_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\My folder\University\4B\ECE 495\11. Motion Planning\Assignment 8\term3_sim_windows\term3_sim_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\My folder\University\4B\ECE 495\11. Motion Planning\Assignment 8\term3_sim_windows\term3_sim_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\My folder\University\4B\ECE 495\11. Motion Planning\Assignment 8\term3_sim_windows\term3_sim_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading D:\My folder\University\4B\ECE 495\11. Motion Planning\Assignment 8\term3_sim_windows\term3_sim_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.033 seconds
+Platform assembly: D:\My folder\University\4B\ECE 495\11. Motion Planning\Assignment 8\term3_sim_windows\term3_sim_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\My folder\University\4B\ECE 495\11. Motion Planning\Assignment 8\term3_sim_windows\term3_sim_Data\Managed\System.dll (this message is harmless)
+OnLevelWasLoaded was found on ReturnToMainMenu
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 382)
+
+Platform assembly: D:\My folder\University\4B\ECE 495\11. Motion Planning\Assignment 8\term3_sim_windows\term3_sim_Data\Managed\Mono.Security.dll (this message is harmless)
+desktop: 1920x1080 144Hz; virtual: 3360x1080 at -1440,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.908400 ms
+Setting up 3 worker threads for Enlighten.
+  Thread -> id: 1334 -> priority: 1 
+  Thread -> id: 4740 -> priority: 1 
+  Thread -> id: 146c -> priority: 1 
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.462700 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 525.
+Total: 0.227000 ms (FindLiveObjects: 0.022600 ms CreateObjectMapping: 0.016100 ms MarkObjects: 0.164400 ms  DeleteObjects: 0.010200 ms)
+
+in menu script 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.259500 ms
+
+Unloading 31 unused Assets to reduce memory usage. Loaded Objects now: 9284.
+Total: 1.936900 ms (FindLiveObjects: 0.298600 ms CreateObjectMapping: 0.112900 ms MarkObjects: 0.833000 ms  DeleteObjects: 0.691800 ms)
+
+Platform assembly: D:\My folder\University\4B\ECE 495\11. Motion Planning\Assignment 8\term3_sim_windows\term3_sim_Data\Managed\System.Configuration.dll (this message is harmless)
+Platform assembly: D:\My folder\University\4B\ECE 495\11. Motion Planning\Assignment 8\term3_sim_windows\term3_sim_Data\Managed\System.Xml.dll (this message is harmless)
+Connection Open
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+4/17/2021 9:56:10 PM|Fatal|WebSocket.acceptException|WebSocketSharp.WebSocketException: The header part of a frame cannot be read from the data source.
+                             at WebSocketSharp.WebSocketFrame+<ParseAsync>c__AnonStorey3.<>m__0 (System.Byte[] header) [0x00000] in <filename unknown>:0 
+                             at WebSocketSharp.Ext+<ReadBytesAsync>c__AnonStorey2.<>m__0 (IAsyncResult ar) [0x00000] in <filename unknown>:0 
